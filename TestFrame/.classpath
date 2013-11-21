@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/testMethods"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/cssparser-0.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/guava-14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/htmlunit-2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/htmlunit-core-js-2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/operadriver-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/phantomjsdriver-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/selenium-java-2.34.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/selenium-java-2.34.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/git/uttamNew11/TestFrame/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

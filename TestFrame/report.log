@@ -1,0 +1,30 @@
+2013-11-20 15:58:14 INFO  Main:32 - Root element :company
+2013-11-20 15:58:14 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-20 15:58:14 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-20 15:58:50 INFO  Main:32 - Root element :company
+2013-11-20 15:58:50 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-20 15:58:50 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-20 16:02:11 INFO  Main:32 - Root element :company
+2013-11-20 16:02:11 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-20 16:02:11 INFO  Main:56 - tracejava.lang.IllegalStateException: The driver executable does not exist: C:\Users\uttamraj_sali\workspace\TestFrame\iedriver\IEDriverServer.exe
+2013-11-20 16:03:10 INFO  Main:32 - Root element :company
+2013-11-20 16:03:10 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-20 16:03:13 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-20 16:03:13 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-20 16:03:13 INFO  Main:28 - pass login fuction
+2013-11-20 16:03:13 INFO  Main:48 - execute
+2013-11-20 16:03:33 INFO  Main:32 - Root element :company
+2013-11-20 16:03:33 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-20 16:03:36 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-20 16:03:36 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-20 16:03:36 INFO  Main:28 - pass login fuction
+2013-11-20 16:03:36 INFO  Main:48 - execute
+2013-11-20 16:03:38 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-20 16:03:39 INFO  Main:48 - search
+2013-11-20 16:03:47 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
