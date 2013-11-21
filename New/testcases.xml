@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<company>
+	<classname id="com.nuance.testMethods.Login">
+		<testname>execute</testname>
+	</classname>
+	
+	<classname id="com.nuance.testMethods.SelectTimeRange">
+		<testname>search</testname>
+		<testname>dnisfilter</testname>
+	</classname>
+	
+	<!--classname id="com.nuance.testMethods.Timestep">
+		<testname>search</testname>
+	</classname>
+	
+	<classname id="com.nuance.testMethods.CallTransferReportTests">
+		<testname>inboundcount</testname>
+	</classname>
+	-->
+</company>

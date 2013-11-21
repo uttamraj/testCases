@@ -28,3 +28,75 @@ Current Element :com.nuance.testMethods.Login
 Current Element :com.nuance.testMethods.SelectTimeRange
 2013-11-20 16:03:39 INFO  Main:48 - search
 2013-11-20 16:03:47 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-21 11:56:43 INFO  Main:32 - Root element :company
+2013-11-21 11:56:43 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 11:56:46 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 11:56:46 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 11:56:46 INFO  Main:28 - pass login fuction
+2013-11-21 11:56:46 INFO  Main:48 - execute
+2013-11-21 11:56:48 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-21 11:56:50 INFO  Main:48 - search
+2013-11-21 11:57:14 INFO  Main:42 - Report for selected range is displayed
+2013-11-21 11:57:16 INFO  Main:48 - dnisfilter
+2013-11-21 11:57:31 INFO  Main:244 - DNIS: 1112223333 is present
+2013-11-21 11:58:10 INFO  Main:32 - Root element :company
+2013-11-21 11:58:10 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 11:58:13 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 11:58:13 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 11:58:13 INFO  Main:28 - pass login fuction
+2013-11-21 11:58:13 INFO  Main:48 - execute
+2013-11-21 11:58:16 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-21 11:58:17 INFO  Main:48 - search
+2013-11-21 11:58:40 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-21 12:17:42 INFO  Main:32 - Root element :company
+2013-11-21 12:17:42 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:17:45 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 12:17:45 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 12:17:45 INFO  Main:28 - pass login fuction
+2013-11-21 12:17:45 INFO  Main:48 - execute
+2013-11-21 12:17:47 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-21 12:17:48 INFO  Main:48 - search
+2013-11-21 12:18:11 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-21 12:20:55 INFO  Main:32 - Root element :company
+2013-11-21 12:20:55 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:20:58 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 12:20:58 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 12:20:58 INFO  Main:28 - pass login fuction
+2013-11-21 12:20:58 INFO  Main:48 - execute
+2013-11-21 12:21:00 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-21 12:21:01 INFO  Main:48 - search
+2013-11-21 12:22:43 INFO  Main:32 - Root element :company
+2013-11-21 12:22:43 INFO  Main:38 - 
+Current Element :com.nuance.Login
+2013-11-21 12:22:43 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.Login
+2013-11-21 12:23:10 INFO  Main:32 - Root element :company
+2013-11-21 12:23:10 INFO  Main:38 - 
+Current Element :com.nuance.Login
+2013-11-21 12:23:10 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-21 12:23:59 INFO  Main:32 - Root element :company
+2013-11-21 12:23:59 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:24:02 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 12:24:02 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 12:24:02 INFO  Main:28 - pass login fuction
+2013-11-21 12:24:02 INFO  Main:48 - execute
+2013-11-21 12:26:52 INFO  Main:32 - Root element :company
+2013-11-21 12:26:52 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:26:52 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-21 13:13:51 INFO  Main:32 - Root element :company
+2013-11-21 13:13:51 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 13:13:55 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 13:13:55 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 13:13:55 INFO  Main:28 - pass login fuction
+2013-11-21 13:13:55 INFO  Main:48 - execute
+2013-11-21 13:13:55 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException

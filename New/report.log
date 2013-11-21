@@ -1,0 +1,23 @@
+2013-11-21 12:32:08 INFO  Main:32 - Root element :company
+2013-11-21 12:32:08 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:32:08 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-21 12:32:40 INFO  Main:32 - Root element :company
+2013-11-21 12:32:40 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:32:40 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-21 12:33:59 INFO  Main:32 - Root element :company
+2013-11-21 12:33:59 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:33:59 INFO  Main:56 - tracejava.lang.IllegalStateException: The driver executable does not exist: C:\Users\uttamraj_sali\git\uttamNew11\New\iedriver\IEDriverServer.exe
+2013-11-21 12:34:39 INFO  Main:32 - Root element :company
+2013-11-21 12:34:39 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-21 12:34:43 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 12:34:43 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 12:34:43 INFO  Main:28 - pass login fuction
+2013-11-21 12:34:43 INFO  Main:48 - execute
+2013-11-21 12:34:45 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-21 12:34:46 INFO  Main:48 - search
+2013-11-21 12:35:09 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
