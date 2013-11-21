@@ -11,7 +11,7 @@ public class App
         String[] a = {"ha","a"};
         String[] b = a;
         System.out.print(b);
-        System.out.print(b);
+        /*System.out.print(b);*/
 
     }
 }
