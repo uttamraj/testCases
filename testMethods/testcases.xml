@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<classname id="com.nuance.testMethods.Login">
+		<testname>execute</testname>
+	</classname>
+	
+	<classname id="com.nuance.testMethods.SelectTimeRange">
+		<testname>findthelables</testname>
+		</classname>
+	
+	<!--classname id="com.nuance.testMethods.Timestep">
+		<testname>search</testname>
+	</classname>
+	-->
+</company>

@@ -1,0 +1,71 @@
+2013-11-19 13:06:30 INFO  Main:32 - Root element :company
+2013-11-19 13:06:30 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-19 13:06:33 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-19 13:06:33 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-19 13:06:34 INFO  Main:28 - pass login fuction
+2013-11-19 13:06:34 INFO  Main:48 - execute
+2013-11-19 13:06:36 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-19 13:06:37 INFO  Main:48 - findthelables
+2013-11-19 13:06:41 INFO  Main:101 - TimeRange Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - StartTime Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - EndTime Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - TimeZone Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - Application Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - DNIS Element  is Present
+2013-11-19 13:06:41 INFO  Main:101 - Language Element  is Present
+2013-11-19 13:08:59 INFO  Main:32 - Root element :company
+2013-11-19 13:08:59 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-19 13:09:02 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-19 13:09:02 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-19 13:09:02 INFO  Main:28 - pass login fuction
+2013-11-19 13:09:02 INFO  Main:48 - execute
+2013-11-19 13:09:04 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-19 13:09:05 INFO  Main:48 - findthelables
+2013-11-19 13:09:08 INFO  Main:101 - TimeRange Element  is Present
+2013-11-19 13:09:08 INFO  Main:101 - StartTime Element  is Present
+2013-11-19 13:09:08 INFO  Main:101 - EndTime Element  is Present
+2013-11-19 13:09:09 INFO  Main:101 - TimeZone Element  is Present
+2013-11-19 13:09:09 INFO  Main:101 - Application Element  is Present
+2013-11-19 13:09:09 INFO  Main:101 - DNIS Element  is Present
+2013-11-19 13:09:09 INFO  Main:101 - Language Element  is Present
+2013-11-19 13:23:09 INFO  Main:32 - Root element :company
+2013-11-19 13:23:09 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-19 13:23:12 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-19 13:23:12 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-19 13:23:12 INFO  Main:28 - pass login fuction
+2013-11-19 13:23:12 INFO  Main:48 - execute
+2013-11-19 13:23:14 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-19 13:23:16 INFO  Main:48 - findthelables
+2013-11-19 13:23:19 INFO  Main:101 - TimeRange Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - StartTime Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - EndTime Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - TimeZone Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - Application Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - DNIS Element  is Present
+2013-11-19 13:23:19 INFO  Main:101 - Language Element  is Present
+2013-11-19 13:24:58 INFO  Main:32 - Root element :company
+2013-11-19 13:24:58 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-19 13:25:02 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-19 13:25:02 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-19 13:25:02 INFO  Main:28 - pass login fuction
+2013-11-19 13:25:02 INFO  Main:48 - execute
+2013-11-19 13:25:04 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-19 13:25:05 INFO  Main:48 - findthelables
+2013-11-19 13:25:08 INFO  Main:101 - TimeRange Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - StartTime Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - EndTime Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - TimeZone Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - Application Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - DNIS Element  is Present
+2013-11-19 13:25:08 INFO  Main:101 - Language Element  is Present
+2013-11-21 10:17:08 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-21 10:17:08 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-21 10:17:08 INFO  Main:28 - pass login fuction
