@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<company>
+	<classname id="com.nuance.Login">
+		<testname>execute</testname>
+	</classname>
+	
+	<classname id="com.nuance.SelectTimeRange">
+		<testname>search</testname>
+		<testname>findTheLables</testname>
+		<testname>abFilterSelectable</testname>
+		<testname>abFilter</testname>
+		<testname>DNISFilterNewLook</testname>
+		<testname>dnisFilter</testname>
+		<testname>cssrNumbers</testname>
+		<testname>numberFormat</testname>
+		<testname>noData</testname>
+	</classname>
+	
+	<!--
+	classname id="com.nuance.Timestep">
+		<testname>search</testname>
+	</classname>
+	-->
+</company>
