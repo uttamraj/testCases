@@ -61,5 +61,6 @@
 	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/workspace/testMethods/lib/xalan-2.7.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/workspace/testMethods/lib/xercesImpl-2.10.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/uttamraj_sali/workspace/testMethods/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/cstr"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

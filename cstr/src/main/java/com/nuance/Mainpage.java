@@ -127,8 +127,8 @@ public class Mainpage {
 		
 		driver.switchTo().defaultContent();
 		
-		//WebElement submittd = new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.id("submittd")));
-		submit = driver.findElement(By.xpath("//input[@value='Submit']"));
+		WebElement submittd = new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.id("submittd")));
+		submit = submittd.findElement(By.xpath("//input[@value='Submit']"));
 		}
 		catch (TimeoutException e)
 		{

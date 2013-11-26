@@ -15,8 +15,16 @@ import org.w3c.dom.Element;
 
 
 
+
+
+
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.lang.reflect.Method;
+import java.net.URL;
  
 public class ProcessXMLFile {
 	public static Logger logger = LoggerFactory.getLogger(Main.class);
@@ -24,10 +32,13 @@ public class ProcessXMLFile {
 
 	public void readXml(String xmlFile){
     try {
-	   	File fXmlFile = new File(xmlFile);
+    	InputStream is = getClass().getResourceAsStream(xmlFile);
+    	
+    	//File fXmlFile = new File();
+    	//File fXmlFile = new File(xmlFile);
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-		Document doc = dBuilder.parse(fXmlFile);
+		Document doc = dBuilder.parse(is);
 		doc.getDocumentElement().normalize();
 	 	logger.info("Root element :" + doc.getDocumentElement().getNodeName());//company
 	 	NodeList nList = doc.getElementsByTagName("classname");

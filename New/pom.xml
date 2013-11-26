@@ -36,5 +36,70 @@
     	<artifactId>slf4j-log4j12</artifactId>
     	<version>1.7.5</version>
     </dependency>
+    <dependency>
+	<groupId>net.sourceforge.htmlunit</groupId>
+	<artifactId>htmlunit-core-js</artifactId>
+	<version>2.12</version>
+</dependency>
+<dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-server</artifactId>
+            <version>2.5.0</version>
+</dependency>
+    <dependency>
+                <groupId>org.seleniumhq.selenium</groupId>
+                <artifactId>selenium-java</artifactId>
+                <version>2.37.1</version>
+            </dependency>
+            <dependency>
+                <groupId>com.opera</groupId>
+                <artifactId>operadriver</artifactId>
+     </dependency>
+      
+<dependency>
+			<groupId>com.nuance.testMethods</groupId>
+			<artifactId>testMethods</artifactId>
+			<version>1.0-release</version>
+			<scope>compile</scope>
+</dependency>
+
   </dependencies>
+  <dependencyManagement>
+            <dependencies>
+             <dependency>
+        <groupId>org.openqa.selenium.webdriver</groupId>
+        <artifactId>webdriver-ie</artifactId>
+        <version>0.6.1039</version>
+    </dependency>
+                <dependency>
+                    <groupId>com.opera</groupId>
+                    <artifactId>operadriver</artifactId>
+                    <version>1.5</version>
+                    <exclusions>
+                        <exclusion>
+                            <groupId>org.seleniumhq.selenium</groupId>
+                            <artifactId>selenium-remote-driver</artifactId>
+                        </exclusion>
+                    </exclusions>
+                </dependency>
+            </dependencies>
+  </dependencyManagement>
+        
+  <build>
+  <plugins>
+    <plugin>
+      <artifactId>maven-assembly-plugin</artifactId>
+      <configuration>
+        <archive>
+          <manifest>
+                    <mainClass>com.nuance.newFrame.New.App</mainClass>
+          </manifest>
+        </archive>
+        <descriptorRefs>
+          <descriptorRef>jar-with-dependencies</descriptorRef>
+        </descriptorRefs>
+      </configuration>
+    </plugin>
+  </plugins>
+</build>
 </project>

@@ -69,3 +69,30 @@ Current Element :com.nuance.testMethods.SelectTimeRange
 2013-11-21 10:17:08 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
 2013-11-21 10:17:08 INFO  DefaultHttpClient:730 - Retrying request
 2013-11-21 10:17:08 INFO  Main:28 - pass login fuction
+2013-11-22 08:50:08 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-22 08:50:08 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-22 08:50:09 INFO  Main:28 - pass login fuction
+2013-11-22 08:51:26 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-22 08:51:26 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-22 08:51:26 INFO  Main:28 - pass login fuction
+2013-11-22 08:54:42 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-22 08:54:42 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-22 08:54:42 INFO  Main:28 - pass login fuction
+2013-11-22 08:54:57 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-22 08:54:57 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-22 08:54:57 INFO  Main:28 - pass login fuction
+2013-11-22 09:12:54 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-22 09:12:54 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-22 09:12:55 INFO  Main:28 - pass login fuction
+2013-11-25 11:06:41 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 11:06:41 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 11:06:41 INFO  Main:28 - pass login fuction
+2013-11-25 12:26:18 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 12:26:18 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 12:26:18 INFO  Main:28 - pass login fuction
+2013-11-25 12:27:07 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 12:27:07 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 12:27:07 INFO  Main:28 - pass login fuction
+2013-11-26 10:41:41 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-26 10:41:41 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-26 10:41:42 INFO  Main:28 - pass login fuction

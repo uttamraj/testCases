@@ -10,7 +10,7 @@ public class App
     {
     	//String x = args[0];
         System.out.println( "Hello World!" );
-        //ProcessXMLFile y = new ProcessXMLFile();
-        //y.readXml(x);
+        ProcessXMLFile y = new ProcessXMLFile();
+        y.readXml("/testcases.xml");
     }
 }

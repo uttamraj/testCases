@@ -50,9 +50,11 @@ public class Login extends Mainpage{
 	
 	public void getuserinfo() 
 	{		
-		username = user.getProperties("username");		
+		/*username = user.getProperties("username");		
 		password = user.getProperties("password");
-		
+		*/
+		username = "yujie_xu";
+		password="nuance3";
 		if (username ==null || username.isEmpty())
 		{
 			throw new NullPointerException("null username found");

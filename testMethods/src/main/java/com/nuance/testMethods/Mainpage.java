@@ -25,6 +25,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import com.nuance.testMethods.*;
 
 public class Mainpage {
 
@@ -43,15 +44,16 @@ public class Mainpage {
 	
 	public Mainpage()
 	{
-		try {
+		/*try {
 			//user =  new UserInfo("userinfo.xml");
 			user = new UserInfo("userInfo.properties");
 			}
 		catch (IOException e)
 		{
 			e.printStackTrace();
-		}
-		webUrl = user.getProperties("weburl");
+		}*/
+		//webUrl = user.getProperties("weburl");
+		webUrl = "https://sun-qa-ncp03clone.engca.bevocal.com:8443/np";
 	}
 	
 	public void choosedomain(String domainname)
@@ -63,17 +65,21 @@ public class Mainpage {
 	
 	public void setDriver()
 	{
-		String webdriver = user.getProperties("browser");
-		
+		//String webdriver = user.getProperties("browser");
+		String webdriver = "ie";
+		//String webdriver = getClass().getClassLoader().getResource("IEDriverServer.exe").getFile();
 		if (webdriver.toLowerCase().equals("ie"))
 		{
-			System.setProperty("webdriver.ie.driver", IEpath+"\\iedriver\\IEDriverServer.exe");
+			System.setProperty("webdriver.ie.driver", "C:\\IEDriverServer.exe");
+			//System.setProperty("webdriver.ie.driver", IEpath+"\\iedriver\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
 		}
 		else
 			driver = new FirefoxDriver();
 		
-		ReportFile = new WriteXmlFile();
+		 ReportFile = new WriteXmlFile();
+
+		
 	}
 	
 	public void gotomainpage()

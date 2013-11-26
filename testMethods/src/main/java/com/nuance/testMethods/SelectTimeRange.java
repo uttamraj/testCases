@@ -11,9 +11,9 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import com.nuance.testMethods.Mainpage;
 //CSSR
 public class SelectTimeRange extends Mainpage{
 	

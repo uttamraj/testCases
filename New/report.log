@@ -21,3 +21,233 @@ Current Element :com.nuance.testMethods.Login
 Current Element :com.nuance.testMethods.SelectTimeRange
 2013-11-21 12:34:46 INFO  Main:48 - search
 2013-11-21 12:35:09 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-25 10:43:27 INFO  Main:32 - Root element :company
+2013-11-25 10:43:27 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 10:43:27 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 10:49:53 INFO  Main:32 - Root element :company
+2013-11-25 10:49:53 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 10:49:53 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 10:55:17 INFO  Main:32 - Root element :company
+2013-11-25 10:55:17 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 10:55:17 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 10:56:50 INFO  Main:32 - Root element :company
+2013-11-25 10:56:50 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 10:56:50 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 10:57:58 INFO  Main:32 - Root element :company
+2013-11-25 10:58:06 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:04:12 INFO  Main:32 - Root element :company
+2013-11-25 11:04:12 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:04:12 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 11:04:44 INFO  Main:32 - Root element :company
+2013-11-25 11:04:44 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:04:44 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-25 11:05:13 INFO  Main:32 - Root element :company
+2013-11-25 11:05:13 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:05:13 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 11:06:57 INFO  Main:32 - Root element :company
+2013-11-25 11:06:57 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:10:26 INFO  Main:32 - Root element :company
+2013-11-25 11:10:26 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:10:29 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 11:10:29 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 11:10:29 INFO  Main:28 - pass login fuction
+2013-11-25 11:10:29 INFO  Main:48 - execute
+2013-11-25 11:48:27 INFO  Main:32 - Root element :company
+2013-11-25 11:48:27 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:48:50 INFO  Main:32 - Root element :company
+2013-11-25 11:48:50 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:48:53 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 11:48:53 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 11:48:53 INFO  Main:28 - pass login fuction
+2013-11-25 11:48:53 INFO  Main:48 - execute
+2013-11-25 11:48:56 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-25 11:49:19 INFO  Main:32 - Root element :company
+2013-11-25 11:49:19 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:49:21 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 11:49:21 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 11:49:21 INFO  Main:28 - pass login fuction
+2013-11-25 11:49:21 INFO  Main:48 - execute
+2013-11-25 11:49:34 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-11-25 11:53:48 INFO  Main:32 - Root element :company
+2013-11-25 11:53:48 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:53:51 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 11:53:51 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 11:53:51 INFO  Main:28 - pass login fuction
+2013-11-25 11:53:51 INFO  Main:48 - execute
+2013-11-25 11:56:25 INFO  Main:32 - Root element :company
+2013-11-25 11:56:25 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:56:25 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-25 11:57:49 INFO  Main:32 - Root element :company
+2013-11-25 11:57:49 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 11:57:49 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-25 11:59:38 INFO  Main:32 - Root element :company
+2013-11-25 11:59:38 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:20:58 INFO  Main:32 - Root element :company
+2013-11-25 12:20:58 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:20:58 INFO  Main:56 - tracejava.lang.IllegalStateException: The driver executable does not exist: C:\Users\uttamraj_sali\git\uttamNew11\New\iedriver\IEDriverServer.exe
+2013-11-25 12:35:41 INFO  Main:32 - Root element :company
+2013-11-25 12:35:41 INFO  Main:38 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:35:41 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 12:36:42 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 12:36:46 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 12:37:37 INFO  Main:56 - tracejava.lang.NullPointerException
+2013-11-25 12:38:31 INFO  Main:33 - Root element :company
+2013-11-25 12:38:31 INFO  Main:39 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:38:31 INFO  Main:57 - tracejava.lang.NullPointerException
+2013-11-25 12:39:01 INFO  Main:33 - Root element :company
+2013-11-25 12:39:01 INFO  Main:39 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:39:01 INFO  Main:57 - tracejava.lang.IllegalStateException: The driver executable does not exist: C:\Users\uttamraj_sali\git\uttamNew11\New\iedriver\IEDriverServer.exe
+2013-11-25 12:53:14 INFO  Main:33 - Root element :company
+2013-11-25 12:53:14 INFO  Main:39 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 12:53:50 INFO  Main:57 - tracejava.lang.NullPointerException
+2013-11-25 12:57:16 INFO  Main:57 - tracejava.lang.NullPointerException
+2013-11-25 12:58:24 INFO  Main:57 - tracejava.lang.NullPointerException
+2013-11-25 13:02:26 INFO  Main:57 - tracejava.lang.NullPointerException
+2013-11-25 13:16:07 INFO  Main:60 - tracejava.lang.NullPointerException
+2013-11-25 13:17:37 INFO  Main:60 - tracejava.lang.NullPointerException
+2013-11-25 13:20:18 INFO  Main:35 - Root element :company
+2013-11-25 13:20:18 INFO  Main:41 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 13:23:40 INFO  Main:62 - tracejava.io.FileNotFoundException: C:\Users\uttamraj_sali\git\uttamNew11\New\java.io.BufferedInputStream@23d275 (The system cannot find the file specified)
+2013-11-25 13:24:42 INFO  Main:62 - tracejava.lang.NullPointerException
+2013-11-25 13:25:35 INFO  Main:62 - tracejava.lang.NullPointerException
+2013-11-25 13:26:07 INFO  Main:62 - tracejava.lang.NullPointerException
+2013-11-25 13:26:10 INFO  Main:62 - tracejava.lang.NullPointerException
+2013-11-25 13:26:16 INFO  Main:62 - tracejava.io.FileNotFoundException: C:\Users\uttamraj_sali\git\uttamNew11\New\java.io.BufferedInputStream@23d275 (The system cannot find the file specified)
+2013-11-25 13:46:43 INFO  Main:43 - Root element :company
+2013-11-25 13:46:43 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 13:46:47 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 13:46:47 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 13:46:47 INFO  Main:28 - pass login fuction
+2013-11-25 13:46:47 INFO  Main:59 - execute
+2013-11-25 13:46:49 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-25 13:47:11 INFO  Main:43 - Root element :company
+2013-11-25 13:47:11 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 13:49:39 INFO  Main:43 - Root element :company
+2013-11-25 13:49:39 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 13:49:39 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-25 13:50:50 INFO  Main:43 - Root element :company
+2013-11-25 13:50:50 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 14:12:28 INFO  Main:43 - Root element :company
+2013-11-25 14:12:28 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 14:48:14 INFO  Main:43 - Root element :company
+2013-11-25 14:48:14 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 14:48:56 INFO  Main:43 - Root element :company
+2013-11-25 14:48:56 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:45:09 INFO  Main:43 - Root element :company
+2013-11-25 15:45:09 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:45:09 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:46:22 INFO  Main:43 - Root element :company
+2013-11-25 15:46:22 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:46:22 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:46:27 INFO  Main:43 - Root element :company
+2013-11-25 15:46:27 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:46:27 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:46:49 INFO  Main:43 - Root element :company
+2013-11-25 15:46:49 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:46:49 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:47:14 INFO  Main:43 - Root element :company
+2013-11-25 15:47:14 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:47:14 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:48:41 INFO  Main:43 - Root element :company
+2013-11-25 15:48:41 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:48:41 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:49:06 INFO  Main:43 - Root element :company
+2013-11-25 15:49:06 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:49:06 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:49:48 INFO  Main:43 - Root element :company
+2013-11-25 15:49:48 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:49:51 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 15:49:51 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 15:49:51 INFO  Main:28 - pass login fuction
+2013-11-25 15:49:51 INFO  Main:59 - execute
+2013-11-25 15:50:15 INFO  Main:43 - Root element :company
+2013-11-25 15:50:15 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:50:15 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:57:11 INFO  Main:43 - Root element :company
+2013-11-25 15:57:11 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:57:11 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:57:45 INFO  Main:43 - Root element :company
+2013-11-25 15:57:45 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:57:45 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 15:59:44 INFO  Main:43 - Root element :company
+2013-11-25 15:59:44 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 15:59:44 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 16:00:14 INFO  Main:43 - Root element :company
+2013-11-25 16:00:14 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:00:14 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 16:00:37 INFO  Main:43 - Root element :company
+2013-11-25 16:00:37 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:00:41 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-25 16:00:41 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-25 16:00:41 INFO  Main:28 - pass login fuction
+2013-11-25 16:00:41 INFO  Main:59 - execute
+2013-11-25 16:01:04 INFO  Main:43 - Root element :company
+2013-11-25 16:01:04 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:01:04 INFO  Main:67 - tracejava.lang.IllegalStateException: The driver executable does not exist: C:\Users\uttamraj_sali\git\uttamNew11\New\iedriver\IEDriverServer.exe
+2013-11-25 16:04:19 INFO  Main:43 - Root element :company
+2013-11-25 16:04:19 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:19:46 INFO  Main:43 - Root element :company
+2013-11-25 16:19:46 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:21:22 INFO  Main:43 - Root element :company
+2013-11-25 16:21:22 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:25:56 INFO  Main:43 - Root element :company
+2013-11-25 16:25:56 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:25:56 INFO  Main:67 - tracejava.lang.NullPointerException
+2013-11-25 16:26:28 INFO  Main:43 - Root element :company
+2013-11-25 16:26:28 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:35:15 INFO  Main:43 - Root element :company
+2013-11-25 16:35:15 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-25 16:37:18 INFO  Main:43 - Root element :company
+2013-11-25 16:37:18 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login

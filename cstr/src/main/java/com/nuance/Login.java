@@ -87,13 +87,14 @@ public class Login extends Mainpage{
 	{
 		Login logintest = new Login();
 		logintest.execute();
-	
+		SelectTimeRange y = new SelectTimeRange();
+		y.search();
 		//Timestep x = new Timestep();
 		//x.filterShouldBeSelectable();
 		/*GenerateHtml FinalRep = new GenerateHtml();
         FinalRep.execute();*/
-        CallTransferReportTests y = new CallTransferReportTests();
-		y.noData();
+       /* CallTransferReportTests y = new CallTransferReportTests();
+		y.noData();*/
 	}
 	
 }

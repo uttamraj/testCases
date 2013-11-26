@@ -12,8 +12,6 @@ import java.util.List;
 import java.util.Vector;
 import java.util.concurrent.TimeUnit;
 
-import junit.framework.Assert;
-
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -39,7 +37,7 @@ public class Timestep extends Mainpage {
 	}
 	//	ODI6.x-646: CSTR - Search// he is doing no search here
 	public void search(){
-		transferReport();
+		TrendReport();
 			try{
 			driver.findElement(By.id("PARAM_START_DATE")).clear();
 			removeAlert();
