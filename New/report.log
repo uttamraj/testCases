@@ -251,3 +251,386 @@ Current Element :com.nuance.testMethods.Login
 2013-11-25 16:37:18 INFO  Main:43 - Root element :company
 2013-11-25 16:37:18 INFO  Main:49 - 
 Current Element :com.nuance.testMethods.Login
+2013-11-26 10:43:27 INFO  Main:43 - Root element :company
+2013-11-26 10:43:27 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-26 10:43:30 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-26 10:43:30 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-26 10:43:30 INFO  Main:28 - pass login fuction
+2013-11-26 10:43:30 INFO  Main:59 - execute
+2013-11-26 11:00:01 INFO  Main:67 - traceorg.xml.sax.SAXParseException; lineNumber: 12; columnNumber: 6; The string "--" is not permitted within comments.
+2013-11-26 11:00:30 INFO  Main:43 - Root element :company
+2013-11-26 11:00:30 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-26 11:00:33 INFO  DefaultHttpClient:723 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-26 11:00:33 INFO  DefaultHttpClient:730 - Retrying request
+2013-11-26 11:00:33 INFO  Main:28 - pass login fuction
+2013-11-26 11:00:33 INFO  Main:59 - execute
+2013-11-26 11:00:35 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-26 11:10:45 INFO  Main:43 - Root element :company
+2013-11-26 11:10:45 INFO  Main:49 - 
+Current Element :com.latest.newTry
+2013-11-26 11:10:45 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.latest.newTry
+2013-11-26 11:20:19 INFO  Main:43 - Root element :company
+2013-11-26 11:20:19 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:20:19 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:25:48 INFO  Main:43 - Root element :company
+2013-11-26 11:25:48 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:25:48 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:29:28 INFO  Main:43 - Root element :company
+2013-11-26 11:29:28 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:29:28 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:01 INFO  Main:43 - Root element :company
+2013-11-26 11:35:01 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:01 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:19 INFO  Main:43 - Root element :company
+2013-11-26 11:35:19 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:19 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:46 INFO  Main:43 - Root element :company
+2013-11-26 11:35:46 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:46 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:54 INFO  Main:43 - Root element :company
+2013-11-26 11:35:54 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:35:54 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:36:27 INFO  Main:43 - Root element :company
+2013-11-26 11:36:27 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:36:27 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:23 INFO  Main:43 - Root element :company
+2013-11-26 11:39:23 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:23 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:23 INFO  Main:43 - Root element :company
+2013-11-26 11:39:23 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:23 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:53 INFO  Main:43 - Root element :company
+2013-11-26 11:39:53 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:39:53 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:40:10 INFO  Main:43 - Root element :company
+2013-11-26 11:40:10 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:40:10 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:41:07 INFO  Main:43 - Root element :company
+2013-11-26 11:41:07 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame
+2013-11-26 11:41:07 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame
+2013-11-26 11:42:01 INFO  Main:43 - Root element :company
+2013-11-26 11:42:01 INFO  Main:49 - 
+Current Element :com.nuance
+2013-11-26 11:42:01 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance
+2013-11-26 11:42:17 INFO  Main:43 - Root element :company
+2013-11-26 11:42:17 INFO  Main:49 - 
+Current Element :com.nuance
+2013-11-26 11:42:17 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance
+2013-11-26 11:42:47 INFO  Main:43 - Root element :company
+2013-11-26 11:42:47 INFO  Main:49 - 
+Current Element :com.nuance
+2013-11-26 11:42:47 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance
+2013-11-26 11:43:59 INFO  Main:43 - Root element :company
+2013-11-26 11:43:59 INFO  Main:49 - 
+Current Element :com.nuance.App
+2013-11-26 11:43:59 INFO  Main:59 - print
+2013-11-26 11:44:58 INFO  Main:43 - Root element :company
+2013-11-26 11:44:58 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:44:58 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:45:24 INFO  Main:43 - Root element :company
+2013-11-26 11:45:24 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:45:24 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:45:53 INFO  Main:43 - Root element :company
+2013-11-26 11:45:53 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame
+2013-11-26 11:45:53 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame
+2013-11-26 11:46:17 INFO  Main:43 - Root element :company
+2013-11-26 11:46:17 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame.App
+2013-11-26 11:46:17 INFO  Main:59 - print
+2013-11-26 12:47:18 INFO  Main:43 - Root element :company
+2013-11-26 12:47:18 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame.App
+2013-11-26 12:47:18 INFO  Main:59 - print
+2013-11-26 13:28:11 INFO  Main:43 - Root element :company
+2013-11-26 13:28:11 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame.App
+2013-11-26 13:28:11 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame.App
+2013-11-26 13:30:11 INFO  Main:43 - Root element :company
+2013-11-26 13:30:11 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.testMethods.App
+2013-11-26 13:30:11 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.testMethods.App
+2013-11-26 13:53:19 INFO  Main:43 - Root element :company
+2013-11-26 13:53:19 INFO  Main:49 - 
+Current Element :com.nuance.TestFrame.TestFrame.App
+2013-11-26 13:53:19 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.TestFrame.TestFrame.App
+2013-11-26 13:55:30 INFO  Main:43 - Root element :company
+2013-11-26 13:55:30 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-26 13:55:30 INFO  Main:28 - pass login fuction
+2013-11-26 13:55:30 INFO  Main:59 - execute
+2013-11-26 15:33:31 INFO  Main:43 - Root element :company
+2013-11-26 15:33:31 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-26 15:33:31 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-26 15:40:04 INFO  Main:43 - Root element :company
+2013-11-26 15:40:04 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.Login
+2013-11-26 15:40:04 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.Login
+2013-11-26 15:40:52 INFO  Main:43 - Root element :company
+2013-11-26 15:40:52 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:40:52 INFO  Main:28 - pass login fuction
+2013-11-26 15:40:52 INFO  Main:59 - execute
+2013-11-26 15:43:19 INFO  Main:43 - Root element :company
+2013-11-26 15:43:19 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:43:19 INFO  Main:28 - pass login fuction
+2013-11-26 15:43:19 INFO  Main:59 - execute
+2013-11-26 15:45:18 INFO  Main:43 - Root element :company
+2013-11-26 15:45:18 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:45:18 INFO  Main:28 - pass login fuction
+2013-11-26 15:45:18 INFO  Main:59 - execute
+2013-11-26 15:45:51 INFO  Main:43 - Root element :company
+2013-11-26 15:45:51 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:45:51 INFO  Main:28 - pass login fuction
+2013-11-26 15:45:51 INFO  Main:59 - execute
+2013-11-26 15:46:00 INFO  Main:43 - Root element :company
+2013-11-26 15:46:00 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:46:00 INFO  Main:28 - pass login fuction
+2013-11-26 15:46:00 INFO  Main:59 - execute
+2013-11-26 15:47:12 INFO  Main:43 - Root element :company
+2013-11-26 15:47:12 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:47:12 INFO  Main:28 - pass login fuction
+2013-11-26 15:47:12 INFO  Main:59 - execute
+2013-11-26 15:47:25 INFO  Main:43 - Root element :company
+2013-11-26 15:47:25 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-26 15:47:25 INFO  Main:28 - pass login fuction
+2013-11-26 15:47:25 INFO  Main:59 - execute
+2013-11-26 15:47:25 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:46:29 INFO  Main:43 - Root element :company
+2013-11-27 11:46:29 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:46:29 INFO  Main:28 - pass login fuction
+2013-11-27 11:46:29 INFO  Main:59 - execute
+2013-11-27 11:46:29 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:50:08 INFO  Main:43 - Root element :company
+2013-11-27 11:50:08 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:50:08 INFO  Main:28 - pass login fuction
+2013-11-27 11:50:08 INFO  Main:59 - execute
+2013-11-27 11:50:08 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:51:33 INFO  Main:43 - Root element :company
+2013-11-27 11:51:33 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:51:33 INFO  Main:28 - pass login fuction
+2013-11-27 11:51:33 INFO  Main:59 - execute
+2013-11-27 11:51:33 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:52:32 INFO  Main:43 - Root element :company
+2013-11-27 11:52:32 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:52:32 INFO  Main:28 - pass login fuction
+2013-11-27 11:52:32 INFO  Main:59 - execute
+2013-11-27 11:52:32 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:53:20 INFO  Main:43 - Root element :company
+2013-11-27 11:53:20 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:53:20 INFO  Main:28 - pass login fuction
+2013-11-27 11:53:20 INFO  Main:59 - execute
+2013-11-27 11:53:20 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:54:01 INFO  Main:43 - Root element :company
+2013-11-27 11:54:01 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:54:01 INFO  Main:28 - pass login fuction
+2013-11-27 11:54:01 INFO  Main:59 - execute
+2013-11-27 11:54:01 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:54:01 INFO  Main:28 - pass login fuction
+2013-11-27 11:56:14 INFO  Main:43 - Root element :company
+2013-11-27 11:56:14 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:56:14 INFO  Main:28 - pass login fuction
+2013-11-27 11:56:14 INFO  Main:59 - execute
+2013-11-27 11:56:14 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:56:14 INFO  Main:28 - pass login fuction
+2013-11-27 11:59:01 INFO  Main:43 - Root element :company
+2013-11-27 11:59:01 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 11:59:01 INFO  Main:28 - pass login fuction
+2013-11-27 11:59:01 INFO  Main:59 - execute
+2013-11-27 11:59:01 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 11:59:04 INFO  Main:28 - pass login fuction
+2013-11-27 12:00:23 INFO  Main:43 - Root element :company
+2013-11-27 12:00:23 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 12:00:23 INFO  Main:28 - pass login fuction
+2013-11-27 12:00:23 INFO  Main:59 - execute
+2013-11-27 12:00:23 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 12:00:24 INFO  Main:28 - pass login fuction
+2013-11-27 12:01:46 INFO  Main:28 - pass login fuction
+2013-11-27 12:02:29 INFO  Main:28 - pass login fuction
+2013-11-27 12:03:11 INFO  Main:28 - pass login fuction
+2013-11-27 12:05:36 INFO  Main:28 - pass login fuction
+2013-11-27 12:06:10 INFO  Main:28 - pass login fuction
+2013-11-27 12:13:21 INFO  Main:28 - pass login fuction
+2013-11-27 12:16:56 INFO  Main:28 - pass login fuction
+2013-11-27 12:17:13 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 12:17:13 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 12:17:13 INFO  Main:28 - pass login fuction
+2013-11-27 12:37:03 INFO  Main:43 - Root element :company
+2013-11-27 12:37:03 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 12:37:07 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 12:37:07 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 12:37:07 INFO  Main:28 - pass login fuction
+2013-11-27 12:37:07 INFO  Main:59 - execute
+2013-11-27 13:27:39 INFO  Main:43 - Root element :company
+2013-11-27 13:27:39 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:32:32 INFO  Main:43 - Root element :company
+2013-11-27 13:32:32 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:32:35 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:32:35 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:32:35 INFO  Main:28 - pass login fuction
+2013-11-27 13:32:35 INFO  Main:59 - execute
+2013-11-27 13:54:14 INFO  Main:43 - Root element :company
+2013-11-27 13:54:14 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:54:17 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:54:17 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:54:17 INFO  Main:28 - pass login fuction
+2013-11-27 13:54:17 INFO  Main:59 - execute
+2013-11-27 13:54:19 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:54:19 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:55:18 INFO  Main:43 - Root element :company
+2013-11-27 13:55:18 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:55:21 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:55:21 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:55:21 INFO  Main:28 - pass login fuction
+2013-11-27 13:55:21 INFO  Main:59 - execute
+2013-11-27 13:55:24 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:55:24 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:56:25 INFO  Main:43 - Root element :company
+2013-11-27 13:56:25 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:56:28 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:56:28 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:56:28 INFO  Main:28 - pass login fuction
+2013-11-27 13:56:28 INFO  Main:59 - execute
+2013-11-27 13:56:30 INFO  Main:49 - 
+Current Element :com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:56:30 INFO  Main:67 - tracejava.lang.ClassNotFoundException: com.nuance.testMethods.SelectTimeRange
+2013-11-27 13:57:16 INFO  Main:43 - Root element :company
+2013-11-27 13:57:16 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:57:19 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:57:19 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:57:19 INFO  Main:28 - pass login fuction
+2013-11-27 13:57:19 INFO  Main:59 - execute
+2013-11-27 13:57:21 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 13:57:22 INFO  Main:59 - search
+2013-11-27 13:57:43 INFO  Main:42 - Report for selected range is showed
+2013-11-27 13:58:45 INFO  Main:43 - Root element :company
+2013-11-27 13:58:45 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 13:58:49 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:58:49 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:58:49 INFO  Main:28 - pass login fuction
+2013-11-27 13:58:49 INFO  Main:59 - execute
+2013-11-27 13:58:51 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 13:58:53 INFO  Main:59 - search
+2013-11-27 13:59:15 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:36:10 INFO  Main:43 - Root element :company
+2013-11-27 14:36:10 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:36:13 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:36:13 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:36:13 INFO  Main:28 - pass login fuction
+2013-11-27 14:36:13 INFO  Main:59 - execute
+2013-11-27 14:36:15 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:36:16 INFO  Main:59 - search
+2013-11-27 14:36:39 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:38:29 INFO  Main:43 - Root element :company
+2013-11-27 14:38:29 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:38:32 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:38:33 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:38:33 INFO  Main:28 - pass login fuction
+2013-11-27 14:38:33 INFO  Main:59 - execute
+2013-11-27 14:38:35 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:38:37 INFO  Main:59 - search
+2013-11-27 14:38:59 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:40:09 INFO  Main:43 - Root element :company
+2013-11-27 14:40:09 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:40:12 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:40:12 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:40:12 INFO  Main:28 - pass login fuction
+2013-11-27 14:40:12 INFO  Main:59 - execute
+2013-11-27 14:40:14 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:40:15 INFO  Main:59 - search
+2013-11-27 14:40:38 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:44:51 INFO  Main:43 - Root element :company
+2013-11-27 14:44:51 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:44:55 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:44:55 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:44:55 INFO  Main:28 - pass login fuction
+2013-11-27 14:44:55 INFO  Main:59 - execute
+2013-11-27 14:44:58 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:45:00 INFO  Main:59 - search
+2013-11-27 14:45:25 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:46:20 INFO  Main:43 - Root element :company
+2013-11-27 14:46:20 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:46:23 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:46:23 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:46:23 INFO  Main:28 - pass login fuction
+2013-11-27 14:46:23 INFO  Main:59 - execute
+2013-11-27 14:46:25 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:46:27 INFO  Main:59 - search
+2013-11-27 14:46:38 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-11-27 14:47:03 INFO  Main:43 - Root element :company
+2013-11-27 14:47:03 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:47:07 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:47:07 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:47:07 INFO  Main:28 - pass login fuction
+2013-11-27 14:47:07 INFO  Main:59 - execute
+2013-11-27 14:47:10 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:47:11 INFO  Main:59 - search
+2013-11-27 14:47:33 INFO  Main:42 - Report for selected range is showed
+2013-11-27 14:56:36 INFO  Main:43 - Root element :company
+2013-11-27 14:56:36 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-11-27 14:56:39 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 14:56:39 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 14:56:39 INFO  Main:28 - pass login fuction
+2013-11-27 14:56:39 INFO  Main:59 - execute
+2013-11-27 14:56:42 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-11-27 14:56:43 INFO  Main:59 - search
+2013-11-27 14:57:06 INFO  Main:42 - Report for selected range is showed

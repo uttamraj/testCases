@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.nuance.testMethods</groupId>
+  <groupId>com.nuance.newFrame</groupId>
   <artifactId>testMethods</artifactId>
   <version>1.0-release</version>
   <packaging>jar</packaging>
@@ -78,7 +78,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.nuance.testMethods.UserInfo</mainClass>
+            <mainClass>com.nuance.testMethods.Login</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>

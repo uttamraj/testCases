@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.106" errors="0" skipped="0" tests="1" name="com.nuance.testMethods.AppTest">
+<testsuite failures="0" time="0.032" errors="0" skipped="0" tests="1" name="com.nuance.testMethods.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.7.0_25\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\uttamraj_sali\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6735258868152930081.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\uttamraj_sali\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1301059552705478986.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.7.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files (x86)/Java/jre7/bin/client;C:/Program Files (x86)/Java/jre7/bin;C:/Program Files (x86)/Java/jre7/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\10.0\DLLShared\;C:\Users\uttamraj_sali\workspace\testing\libs\libs;C:\Users\uttamraj_sali\Downloads\SikuliX\libs;C:\Program Files (x86)\Sikuli X\libs;C:\Program Files (x86)\Java\jdk1.7.0_25\bin;C:\Program Files (x86)\Java\jre7\bin;;C:\Users\uttamraj_sali\Downloads\firefoxdownloadsa\eclipse-jee-kepler-R-win32\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.7.0_25\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean package assembly:single"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.002" classname="com.nuance.testMethods.AppTest" name="testApp"/>
+  <testcase time="0.001" classname="com.nuance.testMethods.AppTest" name="testApp"/>
 </testsuite>

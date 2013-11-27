@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <company>
-	<classname id="com.nuance.testMethods.Login">
+	<classname id="com.nuance.newFrame.sali.LoginCheck">
 		<testname>execute</testname>
 	</classname>
 	
-	<classname id="com.nuance.testMethods.SelectTimeRange">
+	<classname id="com.nuance.newFrame.sali.SelectTimeRange">
 		<testname>search</testname>
-		<testname>dnisfilter</testname>
 	</classname>
 	
 	<!--classname id="com.nuance.testMethods.Timestep">

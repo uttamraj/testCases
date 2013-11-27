@@ -24,14 +24,15 @@ public class Login extends Mainpage{
 	
 	public Login()
 	{
-		super.setDriver();
+		//super.setDriver();
 		logger.info("pass login fuction");
 	}
 	
 	public void execute ()
 	{ 
-		geturl(webUrl);
-		getuserinfo();
+		System.out.println("uttam print");
+		//geturl(webUrl);
+		/*getuserinfo();
 		//enter username
 		WebElement userinput = driver.findElement(By.xpath(userNameXPath));
 		WebElement pswdinput = driver.findElement(By.xpath(passwordXPath));
@@ -40,7 +41,7 @@ public class Login extends Mainpage{
 		userinput.sendKeys(username);
 		pswdinput.sendKeys(password);
 		submit.click();
-		validlogin();
+		validlogin();*/
 	}
 	
 	

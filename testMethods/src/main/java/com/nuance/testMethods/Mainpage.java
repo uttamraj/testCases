@@ -33,7 +33,7 @@ public class Mainpage {
 	protected static WebDriver driver;
 	protected String webUrl; 
 	private static final String IEpath = System.getProperty("user.dir");
-	protected UserInfo user;
+	
 	protected WebElement submit;
 	public static WriteXmlFile ReportFile;
 	public WebElement startdate;
