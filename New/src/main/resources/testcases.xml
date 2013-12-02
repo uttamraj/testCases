@@ -5,10 +5,10 @@
 	</classname>
 	
 	<classname id="com.nuance.newFrame.sali.SelectTimeRange">
-		<testname>search</testname>
+		<testname>findTheLables</testname>
 	</classname>
 	
-	<!--classname id="com.nuance.testMethods.Timestep">
+	<!-- classname id="com.nuance.testMethods.Timestep">
 		<testname>search</testname>
 	</classname>
 	
