@@ -45,3 +45,13 @@
 2013-12-02 15:11:43 INFO  Main:99 - Application Element  is Present
 2013-12-02 15:11:43 INFO  Main:99 - DNIS Element  is Present
 2013-12-02 15:11:44 INFO  Main:99 - Language Element  is Present
+2013-12-02 15:15:07 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 15:15:07 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 15:15:07 INFO  Main:28 - pass login fuction
+2013-12-02 15:15:13 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - Application Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - Language Element  is Present
