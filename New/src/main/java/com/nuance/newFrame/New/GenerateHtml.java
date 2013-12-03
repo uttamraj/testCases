@@ -28,8 +28,8 @@ public class GenerateHtml {
 		 String fileloc = System.getProperty("user.dir");
 		 DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		 
-		File stylesheet = new File(fileloc+"\\target\\classes\\reports\\ReportFormat.xsl");
-		File datafile = new File(fileloc+"\\target\\classes\\reports\\Report.xml");
+		File stylesheet = new File(fileloc+"\\src\\main\\resources\\ReportFormat.xsl");
+		File datafile = new File(fileloc+"\\Report.xml");
 		
 		try{
 		
