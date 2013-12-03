@@ -29,7 +29,7 @@ public class GenerateHtml {
 		 DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		 
 		File stylesheet = new File(fileloc+"\\target\\classes\\reports\\ReportFormat.xsl");
-		File datafile = new File(fileloc+"\\target\\classess\\reports\\report.xml");
+		File datafile = new File(fileloc+"\\target\\classes\\reports\\Report.xml");
 		
 		try{
 		
@@ -62,6 +62,10 @@ public class GenerateHtml {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	public static void main(String []args){
+		GenerateHtml x = new GenerateHtml();
+		x.execute();
 	}
 
 }
