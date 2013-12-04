@@ -11,11 +11,7 @@ public class App
 	public App(){
 	System.out.println("pass login fuction");
 	}
-/*	public void  exec(){
-		   ProcessXMLFile y = new ProcessXMLFile();
-	       y.readXml("/testcases.xml");
 
-	   }*/
     public static void main( String[] args )
     {
     	String pathToXml = args[0];
