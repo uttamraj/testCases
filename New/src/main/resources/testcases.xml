@@ -6,8 +6,9 @@
 	
 	<classname id="com.nuance.newFrame.sali.SelectTimeRange">
 		<testname>findTheLables</testname>
+		<testname>quit</testname>
 	</classname>
-	
+
 	<!-- classname id="com.nuance.testMethods.Timestep">
 		<testname>search</testname>
 	</classname>

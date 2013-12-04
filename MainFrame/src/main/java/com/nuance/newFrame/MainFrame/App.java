@@ -1,8 +1,4 @@
-package com.nuance.newFrame.New;
-
-
-
-
+package com.nuance.newFrame.MainFrame;
 
 
 
@@ -32,5 +28,4 @@ public class App
 	       /*give this C:"\"uttam\reports.html*/
     }
 
-   
 }

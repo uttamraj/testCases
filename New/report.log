@@ -1019,3 +1019,136 @@ Current Element :com.nuance.newFrame.sali.SelectTimeRange
 2013-12-02 16:26:03 INFO  Main:99 - Application Element  is Present
 2013-12-02 16:26:03 INFO  Main:99 - DNIS Element  is Present
 2013-12-02 16:26:03 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:49:47 INFO  Main:43 - Root element :company
+2013-12-02 16:49:47 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-02 16:49:50 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:49:50 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:49:50 INFO  Main:28 - pass login fuction
+2013-12-02 16:49:50 INFO  Main:59 - execute
+2013-12-02 16:49:53 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-02 16:49:54 INFO  Main:59 - findTheLables
+2013-12-02 16:49:57 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - Application Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 16:49:57 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:52:55 INFO  Main:43 - Root element :company
+2013-12-02 16:52:55 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-02 16:52:58 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:52:58 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:52:58 INFO  Main:28 - pass login fuction
+2013-12-02 16:52:58 INFO  Main:59 - execute
+2013-12-02 16:53:00 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-02 16:53:01 INFO  Main:59 - findTheLables
+2013-12-02 16:53:04 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 16:53:04 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 16:53:04 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 16:53:05 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 16:53:05 INFO  Main:99 - Application Element  is Present
+2013-12-02 16:53:05 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 16:53:05 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:55:39 INFO  Main:43 - Root element :company
+2013-12-02 16:55:39 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-02 16:55:42 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:55:42 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:55:42 INFO  Main:28 - pass login fuction
+2013-12-02 16:55:42 INFO  Main:59 - execute
+2013-12-02 16:55:44 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-02 16:55:45 INFO  Main:59 - findTheLables
+2013-12-02 16:55:49 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - Application Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 16:55:49 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:55:51 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-02 16:55:53 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:55:53 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:55:53 INFO  Main:28 - pass login fuction
+2013-12-02 16:55:53 INFO  Main:59 - quit
+2013-12-02 16:55:53 INFO  Main:67 - tracejava.lang.NoSuchMethodException: com.nuance.newFrame.sali.LoginCheck.quit()
+2013-12-02 16:58:50 INFO  Main:43 - Root element :company
+2013-12-02 16:58:50 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-02 16:58:53 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:58:53 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:58:53 INFO  Main:28 - pass login fuction
+2013-12-02 16:58:53 INFO  Main:59 - execute
+2013-12-02 16:58:55 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-02 16:58:57 INFO  Main:59 - findTheLables
+2013-12-02 16:59:00 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - Application Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 16:59:00 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:59:01 INFO  Main:59 - quit
+2013-12-02 16:59:01 INFO  Main:67 - tracejava.lang.NoSuchMethodException: com.nuance.newFrame.sali.SelectTimeRange.quit()
+2013-12-03 11:58:16 INFO  Main:67 - tracejava.io.FileNotFoundException: C:\testcases.xml (The system cannot find the file specified)
+2013-12-03 11:58:42 INFO  Main:67 - tracejava.io.FileNotFoundException: C:\testcases.xml (The system cannot find the file specified)
+2013-12-03 11:59:25 INFO  Main:43 - Root element :company
+2013-12-03 11:59:25 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-03 11:59:28 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-03 11:59:28 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-03 11:59:28 INFO  Main:28 - pass login fuction
+2013-12-03 11:59:28 INFO  Main:59 - execute
+2013-12-03 11:59:33 INFO  Main:67 - tracejava.lang.reflect.InvocationTargetException
+2013-12-03 12:00:25 INFO  Main:43 - Root element :company
+2013-12-03 12:00:25 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-03 12:02:15 INFO  Main:43 - Root element :company
+2013-12-03 12:02:15 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-03 12:03:37 INFO  Main:67 - tracejava.io.FileNotFoundException: C:\Users\reports.html (The system cannot find the file specified)
+2013-12-03 12:04:07 INFO  Main:43 - Root element :company
+2013-12-03 12:04:07 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 11:13:09 INFO  Main:43 - Root element :company
+2013-12-04 11:13:10 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 11:13:10 INFO  Main:43 - Root element :company
+2013-12-04 11:13:10 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 11:13:13 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-04 11:13:13 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-04 11:13:13 INFO  Main:28 - pass login fuction
+2013-12-04 11:13:13 INFO  Main:59 - execute
+2013-12-04 11:13:13 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-04 11:13:13 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-04 11:13:13 INFO  Main:28 - pass login fuction
+2013-12-04 11:13:13 INFO  Main:59 - execute
+2013-12-04 11:13:15 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-04 11:13:16 INFO  Main:49 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-04 11:13:16 INFO  Main:59 - findTheLables
+2013-12-04 11:13:18 INFO  Main:59 - findTheLables
+2013-12-04 11:13:22 INFO  Main:102 - TimeRange Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - TimeRange Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - StartTime Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - StartTime Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - EndTime Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - EndTime Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - TimeZone Element  is Present
+2013-12-04 11:13:22 INFO  Main:102 - TimeZone Element  is Present
+2013-12-04 11:13:23 INFO  Main:102 - Application Element  is Present
+2013-12-04 11:13:23 INFO  Main:102 - Application Element  is Present
+2013-12-04 11:13:28 INFO  Main:98 - DNIS Element is absent
+2013-12-04 11:13:28 INFO  Main:98 - DNIS Element is absent
+2013-12-04 11:13:28 INFO  Main:102 - Language Element  is Present
+2013-12-04 11:13:28 INFO  Main:102 - Language Element  is Present
+2013-12-04 11:13:29 INFO  Main:59 - quit
+2013-12-04 11:13:31 INFO  Main:59 - quit

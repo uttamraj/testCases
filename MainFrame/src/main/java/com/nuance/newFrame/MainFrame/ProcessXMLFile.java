@@ -1,28 +1,17 @@
-package com.nuance.newFrame.New;
+package com.nuance.newFrame.MainFrame;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
 
-import net.sourceforge.htmlunit.corejs.javascript.tools.debugger.Main;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Node;
 import org.w3c.dom.Element;
 
-
-
-
-
-
-
-
-import java.io.BufferedReader;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import net.sourceforge.htmlunit.corejs.javascript.tools.debugger.Main;
 import java.io.File;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.lang.reflect.Method;
 import java.net.URL;
  
