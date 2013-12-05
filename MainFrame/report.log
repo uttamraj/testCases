@@ -38,3 +38,52 @@ Current Element :com.nuance.newFrame.sali.SelectTimeRange
 2013-12-04 13:18:18 INFO  Main:98 - DNIS Element is absent
 2013-12-04 13:18:18 INFO  Main:102 - Language Element  is Present
 2013-12-04 13:18:20 INFO  Main:48 - quit
+2013-12-04 14:11:40 INFO  Main:32 - Root element :company
+2013-12-04 14:11:40 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 14:11:40 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck
+2013-12-04 14:57:35 INFO  Main:32 - Root element :company
+2013-12-04 14:57:35 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 15:04:18 INFO  Main:32 - Root element :company
+2013-12-04 15:04:18 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 15:34:07 INFO  Main:32 - Root element :company
+2013-12-04 15:34:07 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 15:34:10 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-04 15:34:10 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-04 15:34:10 INFO  Main:28 - pass login fuction
+2013-12-04 15:34:10 INFO  Main:48 - execute
+2013-12-04 15:34:11 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-12-04 16:34:49 INFO  Main:32 - Root element :company
+2013-12-04 16:34:49 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-04 16:34:54 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-04 16:34:54 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-04 16:34:54 INFO  Main:28 - pass login fuction
+2013-12-04 16:34:54 INFO  Main:48 - execute
+2013-12-04 16:34:55 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-12-05 11:15:25 INFO  Main:32 - Root element :company
+2013-12-05 11:15:25 INFO  Main:32 - Root element :company
+2013-12-05 11:15:25 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 11:15:25 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 11:15:29 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-05 11:15:29 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-05 11:15:30 INFO  Main:28 - pass login fuction
+2013-12-05 11:15:30 INFO  Main:48 - execute
+2013-12-05 11:15:30 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-05 11:15:30 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-05 11:15:30 INFO  Main:28 - pass login fuction
+2013-12-05 11:15:30 INFO  Main:48 - execute
+2013-12-05 11:15:44 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-12-05 12:40:57 INFO  Main:32 - Root element :company
+2013-12-05 12:40:57 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 12:40:57 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck
+2013-12-05 12:58:11 INFO  Main:32 - Root element :company
+2013-12-05 12:58:11 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 12:58:11 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck

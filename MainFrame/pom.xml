@@ -15,7 +15,7 @@
   </properties>
 
   <dependencies>
-    <dependency>
+  	<dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -44,13 +44,19 @@
   </dependencies>
   <build>
   <plugins>
-    <plugin>
-      <artifactId>maven-assembly-plugin</artifactId>
-      <configuration>
-        <archive>
-          <manifest>
-                    <mainClass>com.nuance.newFrame.MainFrame.App</mainClass>
+  	<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>2.4</version>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+               <mainClass>com.nuance.newFrame.MainFrame.App</mainClass>
           </manifest>
+          <manifestEntries>
+                        <Class-Path>classes/sali-0.0.1-SNAPSHOT-jar-with-dependencies.jar</Class-Path>
+          </manifestEntries>
         </archive>
         <descriptorRefs>
           <descriptorRef>jar-with-dependencies</descriptorRef>
