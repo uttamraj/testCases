@@ -87,3 +87,66 @@ Current Element :com.nuance.newFrame.sali.LoginCheck
 2013-12-05 12:58:11 INFO  Main:38 - 
 Current Element :com.nuance.newFrame.sali.LoginCheck
 2013-12-05 12:58:11 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck
+2013-12-05 12:59:35 INFO  Main:32 - Root element :company
+2013-12-05 12:59:35 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 12:59:35 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:01:59 INFO  Main:32 - Root element :company
+2013-12-05 13:01:59 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:01:59 INFO  Main:56 - tracejava.lang.ClassNotFoundException: com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:02:41 INFO  Main:32 - Root element :company
+2013-12-05 13:02:41 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:02:45 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-05 13:02:45 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-05 13:02:45 INFO  Main:28 - pass login fuction
+2013-12-05 13:02:45 INFO  Main:48 - execute
+2013-12-05 13:02:47 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-05 13:02:49 INFO  Main:48 - findTheLables
+2013-12-05 13:02:52 INFO  Main:102 - TimeRange Element  is Present
+2013-12-05 13:02:52 INFO  Main:102 - StartTime Element  is Present
+2013-12-05 13:02:52 INFO  Main:102 - EndTime Element  is Present
+2013-12-05 13:02:52 INFO  Main:102 - TimeZone Element  is Present
+2013-12-05 13:02:52 INFO  Main:102 - Application Element  is Present
+2013-12-05 13:02:57 INFO  Main:107 - Exceptionorg.openqa.selenium.NoSuchElementException: Finding elements returned an unexpected error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 48a26154-4591-43a2-9dbf-aae248fc4b1e
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:46051/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-05 13:02:57 INFO  Main:107 - Exceptionorg.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 48a26154-4591-43a2-9dbf-aae248fc4b1e
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:46051/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-05 13:02:57 INFO  Main:56 - tracejava.lang.reflect.InvocationTargetException
+2013-12-05 13:52:29 INFO  Main:32 - Root element :company
+2013-12-05 13:52:29 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:55:49 INFO  Main:32 - Root element :company
+2013-12-05 13:55:49 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck
+2013-12-05 13:55:52 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-05 13:55:52 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-05 13:55:52 INFO  Main:28 - pass login fuction
+2013-12-05 13:55:52 INFO  Main:48 - execute
+2013-12-05 13:55:54 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.SelectTimeRange
+2013-12-05 13:55:55 INFO  Main:48 - findTheLables
+2013-12-05 13:56:00 INFO  Main:102 - TimeRange Element  is Present
+2013-12-05 13:56:00 INFO  Main:102 - StartTime Element  is Present
+2013-12-05 13:56:00 INFO  Main:102 - EndTime Element  is Present
+2013-12-05 13:56:00 INFO  Main:102 - TimeZone Element  is Present
+2013-12-05 13:56:00 INFO  Main:102 - Application Element  is Present
+2013-12-05 13:56:05 INFO  Main:98 - DNIS Element is absent
+2013-12-05 13:56:05 INFO  Main:102 - Language Element  is Present
+2013-12-05 13:56:07 INFO  Main:48 - quit
+2013-12-05 13:58:59 INFO  Main:32 - Root element :company
+2013-12-05 13:58:59 INFO  Main:38 - 
+Current Element :com.nuance.newFrame.sali.LoginCheck

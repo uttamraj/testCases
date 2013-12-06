@@ -31,11 +31,7 @@
     		<artifactId>jcl-over-slf4j</artifactId>
     		<version>1.7.5</version>
     	</dependency>
-    	<dependency>
-	    	<groupId>org.slf4j</groupId>
-    		<artifactId>slf4j-log4j12</artifactId>
-    		<version>1.7.5</version>
- 		</dependency>
+    	
  		 <dependency>
 			<groupId>net.sourceforge.htmlunit</groupId>
 			<artifactId>htmlunit-core-js</artifactId>
@@ -55,7 +51,7 @@
                <mainClass>com.nuance.newFrame.MainFrame.App</mainClass>
           </manifest>
           <manifestEntries>
-                        <Class-Path>classes/sali-0.0.1-SNAPSHOT-jar-with-dependencies.jar</Class-Path>
+                        <Class-Path>classes/testCases-0.0.1-SNAPSHOT-jar-with-dependencies.jar</Class-Path>
           </manifestEntries>
         </archive>
         <descriptorRefs>

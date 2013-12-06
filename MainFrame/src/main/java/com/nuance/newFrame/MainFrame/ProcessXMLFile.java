@@ -35,7 +35,7 @@ public class ProcessXMLFile {
 		for (int temp = 0; temp < nList.getLength(); temp++) {
 	 		Node nNode = nList.item(temp);
 			String name=nNode.getAttributes().getNamedItem("id").getNodeValue();
-			logger.info("\nCurrent Element :" + name);
+			logger.info("\nCurrent Class :" + name);
 	 		Class<?> cls = Class.forName(name); //name is the id attribute which i have to extract from xml file
 			Object obj = cls.newInstance();
 			Class<?> noparams[] = {};
@@ -45,7 +45,7 @@ public class ProcessXMLFile {
 				for (int j = 0; j < tLists.getLength(); j++)
 			    {
 			        Element node = (Element) tLists.item(j);
-			        logger.info(node.getFirstChild().getNodeValue());
+			        logger.info("Current Method :"+node.getFirstChild().getNodeValue());
 			        Method method = cls.getDeclaredMethod(node.getFirstChild().getNodeValue(), noparams);
 			        method.invoke(obj);
 			    }
