@@ -1,0 +1,237 @@
+2013-11-26 15:30:58 INFO  Main:28 - pass login fuction
+2013-11-27 11:56:08 INFO  Main:28 - pass login fuction
+2013-11-27 11:58:33 INFO  Main:28 - pass login fuction
+2013-11-27 11:59:25 INFO  Main:28 - pass login fuction
+2013-11-27 12:10:07 INFO  Main:28 - pass login fuction
+2013-11-27 12:10:44 INFO  Main:28 - pass login fuction
+2013-11-27 12:14:16 INFO  Main:28 - pass login fuction
+2013-11-27 12:14:22 INFO  Main:28 - pass login fuction
+2013-11-27 12:14:58 INFO  Main:28 - pass login fuction
+2013-11-27 12:15:33 INFO  Main:28 - pass login fuction
+2013-11-27 12:16:29 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 12:16:29 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 12:16:29 INFO  Main:28 - pass login fuction
+2013-11-27 13:44:22 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:44:22 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:44:23 INFO  Main:28 - pass login fuction
+2013-11-27 13:48:39 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:48:39 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:48:40 INFO  Main:28 - pass login fuction
+2013-11-27 13:48:58 INFO  Main:183 - timeout exception
+2013-11-27 13:49:49 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:49:49 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:49:49 INFO  Main:28 - pass login fuction
+2013-11-27 13:50:18 INFO  Main:42 - Report for selected range is showed
+2013-11-27 13:51:32 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-11-27 13:51:32 INFO  DefaultHttpClient:700 - Retrying request
+2013-11-27 13:51:32 INFO  Main:28 - pass login fuction
+2013-11-27 13:51:57 INFO  Main:42 - Report for selected range is showed
+2013-12-02 13:20:33 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 13:20:33 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 13:20:33 INFO  Main:28 - pass login fuction
+2013-12-02 13:24:34 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 13:24:34 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 13:24:34 INFO  Main:28 - pass login fuction
+2013-12-02 14:03:34 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 14:03:34 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 14:03:34 INFO  Main:28 - pass login fuction
+2013-12-02 15:11:37 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 15:11:37 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 15:11:38 INFO  Main:28 - pass login fuction
+2013-12-02 15:11:43 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 15:11:43 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 15:11:43 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 15:11:43 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 15:11:43 INFO  Main:99 - Application Element  is Present
+2013-12-02 15:11:43 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 15:11:44 INFO  Main:99 - Language Element  is Present
+2013-12-02 15:15:07 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 15:15:07 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 15:15:07 INFO  Main:28 - pass login fuction
+2013-12-02 15:15:13 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - Application Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 15:15:13 INFO  Main:99 - Language Element  is Present
+2013-12-02 15:43:56 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 15:43:56 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 15:43:56 INFO  Main:28 - pass login fuction
+2013-12-02 15:44:02 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 15:44:02 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 15:44:02 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 15:44:02 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 15:44:02 INFO  Main:99 - Application Element  is Present
+2013-12-02 15:44:03 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 15:44:03 INFO  Main:99 - Language Element  is Present
+2013-12-02 16:54:43 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 16:54:43 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 16:54:43 INFO  Main:28 - pass login fuction
+2013-12-02 16:54:49 INFO  Main:99 - TimeRange Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - StartTime Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - EndTime Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - TimeZone Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - Application Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - DNIS Element  is Present
+2013-12-02 16:54:49 INFO  Main:99 - Language Element  is Present
+2013-12-02 17:00:10 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-02 17:00:10 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-02 17:00:10 INFO  Main:28 - pass login fuction
+2013-12-02 17:00:17 INFO  Main:102 - TimeRange Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - StartTime Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - EndTime Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - TimeZone Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - Application Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - DNIS Element  is Present
+2013-12-02 17:00:17 INFO  Main:102 - Language Element  is Present
+2013-12-06 11:29:14 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-06 11:29:14 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-06 11:29:14 INFO  Main:28 - pass login fuction
+2013-12-06 11:29:20 INFO  Main:101 - TimeRange Element  is Present
+2013-12-06 11:29:20 INFO  Main:101 - StartTime Element  is Present
+2013-12-06 11:29:20 INFO  Main:101 - EndTime Element  is Present
+2013-12-06 11:29:20 INFO  Main:101 - TimeZone Element  is Present
+2013-12-06 11:29:21 INFO  Main:101 - Application Element  is Present
+2013-12-06 11:29:21 INFO  Main:101 - DNIS Element  is Present
+2013-12-06 11:29:21 INFO  Main:101 - Language Element  is Present
+2013-12-09 13:43:24 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-09 13:43:24 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-09 13:43:24 INFO  Main:28 - pass login fuction
+2013-12-09 13:44:14 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-09 13:44:14 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-09 13:44:14 INFO  Main:28 - pass login fuction
+2013-12-09 14:10:04 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-09 14:10:04 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-09 14:10:04 INFO  Main:28 - pass login fuction
+2013-12-09 14:34:34 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-09 14:34:34 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-09 14:34:34 INFO  Main:28 - pass login fuction
+2013-12-09 14:34:56 INFO  Main:51 - Caught NoSuchElementException:Unable to find element with css selector == input[type="sdubmit"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.1', revision: 'a7c61cbd68657e133ae96672cf995890bad2ee42', time: '2013-10-21 09:08:07'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: d833e755-078d-4fe0-bee6-3b1f6856031b
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:38656/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-09 14:36:07 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-09 14:36:07 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-09 14:36:07 INFO  Main:28 - pass login fuction
+2013-12-09 14:36:29 INFO  Main:51 - Caught NoSuchElementException:Unable to find element with css selector == input[type="sdubmit"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.1', revision: 'a7c61cbd68657e133ae96672cf995890bad2ee42', time: '2013-10-21 09:08:07'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: ad4e485b-4138-463d-9b69-f492c7cfcbc5
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:46857/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-10 11:38:12 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 11:38:12 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 11:38:12 INFO  Main:28 - pass login fuction
+2013-12-10 11:39:45 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 11:39:45 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 11:39:45 INFO  Main:28 - pass login fuction
+2013-12-10 11:40:23 INFO  Main:51 - Caught NoSuchElementException:Unable to find element with css selector == input[type="sdubmit"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.39 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.1', revision: 'a7c61cbd68657e133ae96672cf995890bad2ee42', time: '2013-10-21 09:08:07'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 9be6645e-1363-423c-87c1-2a9e91de73c2
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:7667/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-10 11:40:53 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 11:40:53 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 11:40:53 INFO  Main:28 - pass login fuction
+2013-12-10 11:41:13 INFO  Main:51 - Caught NoSuchElementException:Unable to find element with css selector == input[type="sdubmit"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.1', revision: 'a7c61cbd68657e133ae96672cf995890bad2ee42', time: '2013-10-21 09:08:07'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: be194d27-b743-45b8-8f88-3335b5499994
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:20260/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-10 11:59:48 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 11:59:48 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 11:59:48 INFO  Main:28 - pass login fuction
+2013-12-10 12:00:35 INFO  Main:174 - A/B Combo ID: NVP 5.0.0-NDF 6.1.0-0.0.0.1 is present
+2013-12-10 12:00:40 INFO  Main:124 - A/B filter values are present
+2013-12-10 12:01:39 INFO  Main:315 - the call volume is greater than the Transfer
+2013-12-10 12:01:39 INFO  Main:320 - PeakHourValue <= CallVolumeValue
+2013-12-10 12:01:39 INFO  Main:325 - Average Call Duration =Call Duration (minutes)/Call Volume
+2013-12-10 12:04:15 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:04:15 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:04:16 INFO  Main:28 - pass login fuction
+2013-12-10 12:05:02 INFO  Main:174 - A/B Combo ID: NVP 5.0.0-NDF 6.1.0-0.0.0.1 is present
+2013-12-10 12:05:07 INFO  Main:124 - A/B filter values are present
+2013-12-10 12:09:16 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:09:16 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:09:16 INFO  Main:28 - pass login fuction
+2013-12-10 12:13:36 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:13:36 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:13:36 INFO  Main:28 - pass login fuction
+2013-12-10 12:26:21 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:26:21 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:26:21 INFO  Main:28 - pass login fuction
+2013-12-10 12:28:19 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:28:19 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:28:20 INFO  Main:28 - pass login fuction
+2013-12-10 12:29:12 INFO  Main:175 - A/B Combo ID: NVP 5.0.0-NDF 6.1.0-0.0.0.1 is present
+2013-12-10 12:29:18 INFO  Main:125 - A/B filter values are present
+2013-12-10 12:31:47 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:31:47 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:31:47 INFO  Main:28 - pass login fuction
+2013-12-10 12:32:32 INFO  Main:175 - A/B Combo ID: NVP 5.0.0-NDF 6.1.0-0.0.0.1 is present
+2013-12-10 12:32:38 INFO  Main:125 - A/B filter values are present
+2013-12-10 12:35:36 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:35:36 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:35:36 INFO  Main:28 - pass login fuction
+2013-12-10 12:37:57 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 12:37:57 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 12:37:58 INFO  Main:28 - pass login fuction
+2013-12-10 12:39:04 INFO  Main:175 - A/B Combo ID: NVP 5.0.0-NDF 6.1.0-0.0.0.1 is present
+2013-12-10 12:39:19 INFO  Main:125 - A/B filter values are present
+2013-12-10 12:41:31 INFO  Main:317 - the call volume is greater than the Transfer
+2013-12-10 12:41:31 INFO  Main:322 - PeakHourValue <= CallVolumeValue
+2013-12-10 12:41:31 INFO  Main:327 - Average Call Duration =Call Duration (minutes)/Call Volume
+2013-12-10 12:41:48 INFO  Main:187 - timeout exception
+2013-12-10 12:42:07 INFO  Main:241 - DNIS: 1112223333 is present
+2013-12-10 12:42:36 INFO  Main:477 - No data was found for the selected criteria.
+2013-12-10 12:42:46 INFO  Main:106 - TimeRange Element  is Present
+2013-12-10 12:42:46 INFO  Main:106 - StartTime Element  is Present
+2013-12-10 12:42:46 INFO  Main:106 - EndTime Element  is Present
+2013-12-10 12:42:46 INFO  Main:106 - TimeZone Element  is Present
+2013-12-10 12:42:46 INFO  Main:106 - Application Element  is Present
+2013-12-10 12:42:46 INFO  Main:106 - DNIS Element  is Present
+2013-12-10 12:42:47 INFO  Main:106 - Language Element  is Present
+2013-12-10 12:43:03 INFO  Main:187 - timeout exception
+2013-12-10 12:43:27 INFO  Main:440 - In Transfer Rate  we have found the decimals with 1 precision
+2013-12-10 12:43:27 INFO  Main:440 - In Containment Rate  we have found the decimals with 1 precision
+2013-12-10 12:43:28 INFO  Main:440 - In call duration we have found the decimals with 2 precision
+2013-12-10 12:43:28 INFO  Main:440 - In average call duration we have found the decimals with 2 precision
+2013-12-10 12:43:28 INFO  Main:440 - In average call duration for transfered calls we have found the decimals with 2 precision
+2013-12-10 12:43:28 INFO  Main:440 - Average Weekly call volume we have found the decimals with 1 precision
+2013-12-10 12:43:29 INFO  Main:440 - In peak hour average call duration we have found the decimals with 2 precision
+2013-12-10 12:47:00 INFO  Main:51 - Caught NoSuchElementException:Unable to find element with css selector == input[type="sdubmit"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.1', revision: 'a7c61cbd68657e133ae96672cf995890bad2ee42', time: '2013-10-21 09:08:07'
+System info: host: 'SUN-USALI-L', ip: '10.14.24.145', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 4086d582-39af-45e7-af5a-7a2c3e2b7fc6
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=8, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=false, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:17839/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2013-12-10 13:47:43 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 13:47:43 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 13:47:44 INFO  Main:28 - pass login fuction
+2013-12-10 13:51:28 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 13:51:28 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 13:51:28 INFO  Main:28 - pass login fuction
+2013-12-10 13:51:54 INFO  Main:43 - Report for selected range is showed
+2013-12-10 13:54:40 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 13:54:40 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 13:54:40 INFO  Main:28 - pass login fuction
+2013-12-10 13:55:05 INFO  Main:43 - Report for selected range is showed
+2013-12-10 13:55:14 INFO  DefaultHttpClient:693 - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2013-12-10 13:55:14 INFO  DefaultHttpClient:700 - Retrying request
+2013-12-10 13:55:14 INFO  Main:28 - pass login fuction
+2013-12-10 13:55:40 INFO  Main:43 - Report for selected range is showed
